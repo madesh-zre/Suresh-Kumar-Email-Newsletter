@@ -1,0 +1,39 @@
+
+PROJECT: Clear Notes by Suresh Kumar
+TYPE: Responsive HTML Email Newsletter
+
+1. HTML STRUCTURE
+The newsletter is built using HTML table-based layouts
+for better email client compatibility.
+
+2. CSS STYLING
+CSS styles are applied inline to improve compatibility
+with email clients.
+
+3. RESPONSIVE DESIGN
+The newsletter is tested at:
+- 320px
+- 375px
+- 600px
+
+4. IMAGES
+The newsletter includes a logo and a hero image.
+Alternative text is provided for accessibility.
+The hero image uses empty alt text because it is decorative.
+
+5. CALL TO ACTION (CTA)
+The newsletter includes a button:
+"Read the accessibility writing tips"
+It opens the W3C accessibility writing tips page
+in a new browser tab.
+
+6. ACCESSIBILITY
+The newsletter content remains readable when images
+are disabled.
+
+7. TESTING
+Responsive layout, image blocking, image restoration,
+and CTA link functionality have been tested.
+
+8. FILE REQUIREMENTS
+HTML file size must remain below 100 KB.

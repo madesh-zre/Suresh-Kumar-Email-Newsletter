@@ -1,0 +1,8 @@
+
+Test ID,Test Description,Viewport,Expected Result,Actual Result,Status
+T01,Responsive layout,320px,Newsletter displays correctly,Newsletter displays correctly,PASS
+T02,Responsive layout,375px,Newsletter displays correctly,Newsletter displays correctly,PASS
+T03,Responsive layout,600px,Newsletter displays correctly,Newsletter displays correctly,PASS
+T04,Images disabled,600px,Text remains readable without images,Text remains readable,PASS
+T05,Images restored,600px,Logo and hero image appear,Images appear,PASS
+T06,CTA button,600px,Opens W3C accessibility page in new tab,Opens W3C page in new tab,PASS

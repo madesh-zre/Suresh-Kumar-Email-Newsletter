@@ -1,0 +1,12 @@
+{
+  "html": "index.html",
+  "bytes": 5851,
+  "tables": 7,
+  "images": 2,
+  "links": [
+    "https://www.w3.org/WAI/tips/writing/"
+  ],
+  "errors": [],
+  "result": "PASS",
+  "check_type": "Local static checks; no email-client rendering performed"
+}
